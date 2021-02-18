@@ -1,0 +1,16 @@
+{
+  "short_name": "DailyTube",
+  "name": "DailyTube",
+  "description": "Regarder des vidéos d'autres utilisateurs",
+  "icons": [
+    {
+      "src": "asset/img/logo/logo_DailyTube.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#21a65f",
+  "background_color": "#2f2c2c"
+}
